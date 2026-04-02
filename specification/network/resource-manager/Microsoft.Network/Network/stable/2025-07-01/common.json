@@ -2545,7 +2545,7 @@
         ]
       }
     },
-    "DdosFrontendIPConfigurationSettings": {
+    "DdosFrontendIpConfigurationSettings": {
       "type": "object",
       "description": "DDoS protection settings for a frontend IP configuration.",
       "properties": {

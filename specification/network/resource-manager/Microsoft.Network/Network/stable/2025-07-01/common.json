@@ -2551,7 +2551,7 @@
       "properties": {
         "ddosCustomPolicy": {
           "$ref": "#/definitions/SubResource",
-          "description": "The reference to the Ddos Custom Policy resource."
+          "description": "The reference to the DDoS Custom Policy resource."
         }
       }
     },

@@ -1139,6 +1139,40 @@ model AccessUri {
 }
 
 /**
+ * The type of the immutability policy.
+ */
+@added(Versions.v2026_03_02)
+union ImmutabilityPolicyState {
+  string,
+
+  /**
+   * Privileged users can modify the snapshot's immutability policy, if it is unlocked type.
+   */
+  Unlocked: "Unlocked",
+
+  /**
+   * The snapshot immutability policy cannot be modified by any user until the lock period expires.
+   */
+  Locked: "Locked",
+}
+
+/**
+ * Data used for updating the immutability policy of a snapshot.
+ */
+@added(Versions.v2026_03_02)
+model ImmutabilityPolicyData {
+  /**
+   * The immutability duration for the snapshot, in number of days.
+   */
+  immutabilityDurationDays?: int32;
+
+  /**
+   * The type of the immutability policy. Possible values include: 'Unlocked', 'Locked'.
+   */
+  type?: ImmutabilityPolicyState;
+}
+
+/**
  * The List disk access operation response.
  */
 model DiskAccessList is Azure.Core.Page<DiskAccess>;

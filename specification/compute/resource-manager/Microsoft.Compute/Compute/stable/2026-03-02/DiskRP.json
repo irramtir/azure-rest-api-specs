@@ -84,7 +84,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -123,7 +123,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -162,7 +162,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -201,7 +201,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -243,7 +243,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -292,7 +292,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -365,7 +365,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -439,7 +439,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -501,7 +501,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -551,7 +551,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -607,7 +607,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -684,7 +684,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -753,7 +753,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -803,7 +803,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -842,7 +842,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -891,7 +891,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -964,7 +964,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1044,7 +1044,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1112,7 +1112,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1162,7 +1162,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1204,7 +1204,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1253,7 +1253,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1323,7 +1323,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1475,7 +1475,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1564,7 +1564,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1637,7 +1637,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1704,7 +1704,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1761,7 +1761,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1824,7 +1824,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1910,7 +1910,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -1985,7 +1985,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -2028,7 +2028,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -2077,7 +2077,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -2150,7 +2150,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -2242,7 +2242,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -2307,7 +2307,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -2380,7 +2380,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -2441,7 +2441,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -2456,7 +2456,7 @@
         "x-ms-long-running-operation": true
       }
     },
-    "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Compute/snapshots/{resourceName}/updateImmutabilityPolicy": {
+    "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Compute/snapshots/{snapshotName}/updateImmutabilityPolicy": {
       "post": {
         "operationId": "Snapshots_UpdateImmutabilityPolicy",
         "tags": [
@@ -2474,7 +2474,7 @@
             "$ref": "../../../../../../common-types/resource-management/v3/types.json#/parameters/ResourceGroupNameParameter"
           },
           {
-            "name": "resourceName",
+            "name": "snapshotName",
             "in": "path",
             "description": "The name of the snapshot that is being created. The name can't be changed after the snapshot is created. Supported characters for the name are a-z, A-Z, 0-9, _ and -. The max name length is 80 characters.",
             "required": true,
@@ -2514,7 +2514,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -2529,7 +2529,7 @@
         "x-ms-long-running-operation": true
       }
     },
-    "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Compute/snapshots/{resourceName}/updateImmutabilityPolicyLock": {
+    "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Compute/snapshots/{snapshotName}/updateImmutabilityPolicyLock": {
       "post": {
         "operationId": "Snapshots_UpdateImmutabilityPolicyLock",
         "tags": [
@@ -2547,7 +2547,7 @@
             "$ref": "../../../../../../common-types/resource-management/v3/types.json#/parameters/ResourceGroupNameParameter"
           },
           {
-            "name": "resourceName",
+            "name": "snapshotName",
             "in": "path",
             "description": "The name of the snapshot that is being created. The name can't be changed after the snapshot is created. Supported characters for the name are a-z, A-Z, 0-9, _ and -. The max name length is 80 characters.",
             "required": true,
@@ -2587,7 +2587,7 @@
           "default": {
             "description": "An unexpected error response.",
             "schema": {
-              "$ref": "../../../common-types/v1/common.json#/definitions/CloudError"
+              "$ref": "../../common-types/v1/common.json#/definitions/CloudError"
             }
           }
         },
@@ -2652,28 +2652,6 @@
         }
       }
     },
-    "Architecture": {
-      "type": "string",
-      "description": "CPU architecture supported by an OS disk.",
-      "enum": [
-        "x64",
-        "Arm64"
-      ],
-      "x-ms-enum": {
-        "name": "Architecture",
-        "modelAsString": true,
-        "values": [
-          {
-            "name": "x64",
-            "value": "x64"
-          },
-          {
-            "name": "Arm64",
-            "value": "Arm64"
-          }
-        ]
-      }
-    },
     "AvailabilityPolicy": {
       "type": "object",
       "description": "In the case of an availability or connectivity issue with the data disk, specify the behavior of your VM",
@@ -2706,6 +2684,119 @@
             "description": "Upon a disk io failure or slow response, try detaching then reattaching the disk."
           }
         ]
+      }
+    },
+    "Common.Architecture": {
+      "type": "string",
+      "description": "CPU architecture supported by an OS disk.",
+      "enum": [
+        "x64",
+        "Arm64"
+      ],
+      "x-ms-enum": {
+        "name": "Architecture",
+        "modelAsString": true,
+        "values": [
+          {
+            "name": "x64",
+            "value": "x64"
+          },
+          {
+            "name": "Arm64",
+            "value": "Arm64"
+          }
+        ]
+      }
+    },
+    "Common.HyperVGeneration": {
+      "type": "string",
+      "description": "The hypervisor generation of the Virtual Machine.",
+      "enum": [
+        "V1",
+        "V2"
+      ],
+      "x-ms-enum": {
+        "name": "HyperVGeneration",
+        "modelAsString": true,
+        "values": [
+          {
+            "name": "V1",
+            "value": "V1"
+          },
+          {
+            "name": "V2",
+            "value": "V2"
+          }
+        ]
+      }
+    },
+    "Common.OperatingSystemTypes": {
+      "type": "string",
+      "description": "This property allows you to specify the type of the OS that is included in the disk if creating a VM from user-image or a specialized VHD. Possible values are: **Windows,** **Linux.**",
+      "enum": [
+        "Windows",
+        "Linux"
+      ],
+      "x-ms-enum": {
+        "name": "OperatingSystemTypes",
+        "modelAsString": false
+      }
+    },
+    "Common.SnapshotAccessState": {
+      "type": "string",
+      "description": "The state of snapshot which determines the access availability of the snapshot.",
+      "enum": [
+        "Unknown",
+        "Pending",
+        "Available",
+        "InstantAccess",
+        "AvailableWithInstantAccess"
+      ],
+      "x-ms-enum": {
+        "name": "SnapshotAccessState",
+        "modelAsString": true,
+        "values": [
+          {
+            "name": "Unknown",
+            "value": "Unknown",
+            "description": "Default value."
+          },
+          {
+            "name": "Pending",
+            "value": "Pending",
+            "description": "The snapshot cannot be used for restore, copy or download to offline."
+          },
+          {
+            "name": "Available",
+            "value": "Available",
+            "description": "The snapshot can be used for restore, copy to different region, and download to offline."
+          },
+          {
+            "name": "InstantAccess",
+            "value": "InstantAccess",
+            "description": "The snapshot can be used for restoring disks with fast performance but cannot be copied or downloaded."
+          },
+          {
+            "name": "AvailableWithInstantAccess",
+            "value": "AvailableWithInstantAccess",
+            "description": "The snapshot can be used for restoring disks with fast performance, copied and downloaded."
+          }
+        ]
+      }
+    },
+    "Common.UserAssignedIdentitiesValue": {
+      "type": "object",
+      "properties": {
+        "principalId": {
+          "type": "string",
+          "description": "The principal id of user assigned identity.",
+          "readOnly": true
+        },
+        "clientId": {
+          "type": "string",
+          "description": "The client id of user assigned identity.",
+          "readOnly": true
+        }
       }
     },
     "CopyCompletionError": {
@@ -2877,7 +2968,7 @@
           }
         },
         "extendedLocation": {
-          "$ref": "../../../common-types/v1/common.json#/definitions/ExtendedLocation",
+          "$ref": "../../common-types/v1/common.json#/definitions/ExtendedLocation",
           "description": "The extended location where the disk will be created. Extended location cannot be changed."
         }
       },
@@ -2896,7 +2987,7 @@
           "x-ms-client-flatten": true
         },
         "extendedLocation": {
-          "$ref": "../../../common-types/v1/common.json#/definitions/ExtendedLocation",
+          "$ref": "../../common-types/v1/common.json#/definitions/ExtendedLocation",
           "description": "The extended location where the disk access will be created. Extended location cannot be changed."
         }
       },
@@ -3220,11 +3311,11 @@
           "readOnly": true
         },
         "osType": {
-          "$ref": "#/definitions/OperatingSystemTypes",
+          "$ref": "#/definitions/Common.OperatingSystemTypes",
           "description": "The Operating System type."
         },
         "hyperVGeneration": {
-          "$ref": "#/definitions/HyperVGeneration",
+          "$ref": "#/definitions/Common.HyperVGeneration",
           "description": "The hypervisor generation of the Virtual Machine. Applicable to OS disks only."
         },
         "purchasePlan": {
@@ -3457,12 +3548,12 @@
           "readOnly": true
         },
         "osType": {
-          "$ref": "#/definitions/OperatingSystemTypes",
+          "$ref": "#/definitions/Common.OperatingSystemTypes",
           "description": "The Operating System type.",
           "readOnly": true
         },
         "hyperVGeneration": {
-          "$ref": "#/definitions/HyperVGeneration",
+          "$ref": "#/definitions/Common.HyperVGeneration",
           "description": "The hypervisor generation of the Virtual Machine. Applicable to OS disks only."
         },
         "purchasePlan": {
@@ -3743,7 +3834,7 @@
       "description": "Disk resource update properties.",
       "properties": {
         "osType": {
-          "$ref": "#/definitions/OperatingSystemTypes",
+          "$ref": "#/definitions/Common.OperatingSystemTypes",
           "description": "the Operating System type."
         },
         "diskSizeGB": {
@@ -3871,7 +3962,7 @@
           "type": "object",
           "description": "The list of user identities associated with the disk encryption set. The user identity dictionary key references will be ARM resource ids in the form: '/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.ManagedIdentity/userAssignedIdentities/{identityName}'.",
           "additionalProperties": {
-            "$ref": "#/definitions/UserAssignedIdentitiesValue"
+            "$ref": "#/definitions/Common.UserAssignedIdentitiesValue"
           }
         }
       }
@@ -3914,7 +4005,7 @@
           "readOnly": true
         },
         "autoKeyRotationError": {
-          "$ref": "../../../common-types/v1/common.json#/definitions/ApiError",
+          "$ref": "../../common-types/v1/common.json#/definitions/ApiError",
           "description": "The error that was encountered during auto-key rotation. If an error is present, then auto-key rotation will not be attempted until the error on this disk encryption set is fixed.",
           "readOnly": true
         },
@@ -4046,63 +4137,6 @@
         "durationInSeconds"
       ]
     },
-    "ImmutabilityPolicyData": {
-      "type": "object",
-      "description": "Data used for updating the immutability policy of a snapshot.",
-      "properties": {
-        "immutabilityDurationDays": {
-          "type": "integer",
-          "format": "int32",
-          "description": "The immutability duration for the snapshot, in number of days."
-        },
-        "type": {
-          "type": "string",
-          "description": "The type of the immutability policy. Possible values include: 'Unlocked', 'Locked'.",
-          "enum": [
-            "Unlocked",
-            "Locked"
-          ],
-          "x-ms-enum": {
-            "name": "ImmutabilityPolicyState",
-            "modelAsString": true,
-            "values": [
-              {
-                "name": "Unlocked",
-                "value": "Unlocked",
-                "description": "Privileged users can modify the snapshot's immutability policy, if it is unlocked type."
-              },
-              {
-                "name": "Locked",
-                "value": "Locked",
-                "description": "The snapshot immutability policy cannot be modified by any user until the lock period expires."
-              }
-            ]
-          }
-        }
-      }
-    },
-    "HyperVGeneration": {
-      "type": "string",
-      "description": "The hypervisor generation of the Virtual Machine. Applicable to OS disks only.",
-      "enum": [
-        "V1",
-        "V2"
-      ],
-      "x-ms-enum": {
-        "name": "HyperVGeneration",
-        "modelAsString": true,
-        "values": [
-          {
-            "name": "V1",
-            "value": "V1"
-          },
-          {
-            "name": "V2",
-            "value": "V2"
-          }
-        ]
-      }
-    },
     "ImageDiskReference": {
       "type": "object",
       "description": "The source image used for creating the disk.",
@@ -4124,6 +4158,45 @@
           "format": "int32",
           "description": "If the disk is created from an image's data disk, this is an index that indicates which of the data disks in the image to use. For OS disks, this field is null."
         }
+      }
+    },
+    "ImmutabilityPolicyData": {
+      "type": "object",
+      "description": "Data used for updating the immutability policy of a snapshot.",
+      "properties": {
+        "immutabilityDurationDays": {
+          "type": "integer",
+          "format": "int32",
+          "description": "The immutability duration for the snapshot, in number of days."
+        },
+        "type": {
+          "$ref": "#/definitions/ImmutabilityPolicyState",
+          "description": "The type of the immutability policy. Possible values include: 'Unlocked', 'Locked'."
+        }
+      }
+    },
+    "ImmutabilityPolicyState": {
+      "type": "string",
+      "description": "The type of the immutability policy.",
+      "enum": [
+        "Unlocked",
+        "Locked"
+      ],
+      "x-ms-enum": {
+        "name": "ImmutabilityPolicyState",
+        "modelAsString": true,
+        "values": [
+          {
+            "name": "Unlocked",
+            "value": "Unlocked",
+            "description": "Privileged users can modify the snapshot's immutability policy, if it is unlocked type."
+          },
+          {
+            "name": "Locked",
+            "value": "Locked",
+            "description": "The snapshot immutability policy cannot be modified by any user until the lock period expires."
+          }
+        ]
       }
     },
     "KeyForDiskEncryptionSet": {
@@ -4207,18 +4280,6 @@
             "description": "The disk cannot be exported."
           }
         ]
-      }
-    },
-    "OperatingSystemTypes": {
-      "type": "string",
-      "description": "The Operating System type.",
-      "enum": [
-        "Windows",
-        "Linux"
-      ],
-      "x-ms-enum": {
-        "name": "OperatingSystemTypes",
-        "modelAsString": false
       }
     },
     "PrivateEndpoint": {
@@ -4540,7 +4601,7 @@
           "description": "The snapshots sku name. Can be Standard_LRS, Premium_LRS, or Standard_ZRS. This is an optional parameter for incremental snapshot and the default behavior is the SKU will be set to the same sku as the previous snapshot"
         },
         "extendedLocation": {
-          "$ref": "../../../common-types/v1/common.json#/definitions/ExtendedLocation",
+          "$ref": "../../common-types/v1/common.json#/definitions/ExtendedLocation",
           "description": "The extended location where the snapshot will be created. Extended location cannot be changed."
         }
       },
@@ -4549,48 +4610,6 @@
           "$ref": "../../../../../../common-types/resource-management/v3/types.json#/definitions/TrackedResource"
         }
       ]
-    },
-    "SnapshotAccessState": {
-      "type": "string",
-      "description": "The state of snapshot which determines the access availability of the snapshot.",
-      "enum": [
-        "Unknown",
-        "Pending",
-        "Available",
-        "InstantAccess",
-        "AvailableWithInstantAccess"
-      ],
-      "x-ms-enum": {
-        "name": "SnapshotAccessState",
-        "modelAsString": true,
-        "values": [
-          {
-            "name": "Unknown",
-            "value": "Unknown",
-            "description": "Default value."
-          },
-          {
-            "name": "Pending",
-            "value": "Pending",
-            "description": "The snapshot cannot be used for restore, copy or download to offline."
-          },
-          {
-            "name": "Available",
-            "value": "Available",
-            "description": "The snapshot can be used for restore, copy to different region, and download to offline."
-          },
-          {
-            "name": "InstantAccess",
-            "value": "InstantAccess",
-            "description": "The snapshot can be used for restoring disks with fast performance but cannot be copied or downloaded."
-          },
-          {
-            "name": "AvailableWithInstantAccess",
-            "value": "AvailableWithInstantAccess",
-            "description": "The snapshot can be used for restoring disks with fast performance, copied and downloaded."
-          }
-        ]
-      }
     },
     "SnapshotList": {
       "type": "object",
@@ -4624,11 +4643,11 @@
           "readOnly": true
         },
         "osType": {
-          "$ref": "#/definitions/OperatingSystemTypes",
+          "$ref": "#/definitions/Common.OperatingSystemTypes",
           "description": "The Operating System type."
         },
         "hyperVGeneration": {
-          "$ref": "#/definitions/HyperVGeneration",
+          "$ref": "#/definitions/Common.HyperVGeneration",
           "description": "The hypervisor generation of the Virtual Machine. Applicable to OS disks only."
         },
         "purchasePlan": {
@@ -4720,7 +4739,7 @@
           "description": "Additional authentication requirements when exporting or uploading to a disk or snapshot."
         },
         "snapshotAccessState": {
-          "$ref": "#/definitions/SnapshotAccessState",
+          "$ref": "#/definitions/Common.SnapshotAccessState",
           "description": "The state of snapshot which determines the access availability of the snapshot.",
           "readOnly": true
         }
@@ -4801,7 +4820,7 @@
       "description": "Snapshot resource update properties.",
       "properties": {
         "osType": {
-          "$ref": "#/definitions/OperatingSystemTypes",
+          "$ref": "#/definitions/Common.OperatingSystemTypes",
           "description": "the Operating System type."
         },
         "diskSizeGB": {
@@ -4842,7 +4861,7 @@
           "description": "List of supported capabilities for the image from which the OS disk was created."
         },
         "snapshotAccessState": {
-          "$ref": "#/definitions/SnapshotAccessState",
+          "$ref": "#/definitions/Common.SnapshotAccessState",
           "description": "The state of snapshot which determines the access availability of the snapshot.",
           "readOnly": true
         }
@@ -4871,7 +4890,7 @@
           "description": "True if the image from which the OS disk is created supports accelerated networking."
         },
         "architecture": {
-          "$ref": "#/definitions/Architecture",
+          "$ref": "#/definitions/Common.Architecture",
           "description": "CPU architecture supported by an OS disk."
         },
         "supportedSecurityOption": {
@@ -4902,21 +4921,6 @@
             "description": "The disk supports creating both Trusted Launch and Confidential VMs."
           }
         ]
-      }
-    },
-    "UserAssignedIdentitiesValue": {
-      "type": "object",
-      "properties": {
-        "principalId": {
-          "type": "string",
-          "description": "The principal id of user assigned identity.",
-          "readOnly": true
-        },
-        "clientId": {
-          "type": "string",
-          "description": "The client id of user assigned identity.",
-          "readOnly": true
-        }
       }
     }
   },

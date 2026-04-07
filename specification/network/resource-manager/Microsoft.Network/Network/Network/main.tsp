@@ -155,6 +155,11 @@ namespace Microsoft.Network;
  */
 enum Versions {
   /**
+   * The 2025-05-01 API version.
+   */
+  v2025_05_01: "2025-05-01",
+
+  /**
    * The 2025-07-01 API version.
    */
   v2025_07_01: "2025-07-01",

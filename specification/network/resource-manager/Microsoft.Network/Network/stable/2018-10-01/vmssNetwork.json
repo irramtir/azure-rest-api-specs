@@ -896,16 +896,6 @@
         }
       }
     },
-    "Microsoft.Network.DdosFrontendIpConfigurationSettings": {
-      "type": "object",
-      "description": "DDoS protection settings for a frontend IP configuration.",
-      "properties": {
-        "ddosCustomPolicy": {
-          "$ref": "#/definitions/Microsoft.Network.SubResource",
-          "description": "The reference to the DDoS Custom Policy resource."
-        }
-      }
-    },
     "Microsoft.Network.DdosSettings": {
       "type": "object",
       "description": "Contains the DDoS protection settings of the public IP.",
@@ -1254,10 +1244,6 @@
           "$ref": "#/definitions/Microsoft.Network.ProvisioningState",
           "description": "The provisioning state of the frontend IP configuration resource.",
           "readOnly": true
-        },
-        "ddosSettings": {
-          "$ref": "#/definitions/Microsoft.Network.DdosFrontendIpConfigurationSettings",
-          "description": "The DDoS protection settings associated with the frontend IP configuration."
         }
       }
     },

@@ -2545,16 +2545,6 @@
         ]
       }
     },
-    "DdosFrontendIpConfigurationSettings": {
-      "type": "object",
-      "description": "DDoS protection settings for a frontend IP configuration.",
-      "properties": {
-        "ddosCustomPolicy": {
-          "$ref": "#/definitions/SubResource",
-          "description": "The reference to the DDoS Custom Policy resource."
-        }
-      }
-    },
     "DdosSettingsProtectionMode": {
       "type": "string",
       "description": "The DDoS protection mode of the public IP",
